@@ -2,10 +2,17 @@
 #include <stdio.h>
 #include <file1.h>
 #include <file2.h>
+int test_Var=0;
 int main()
 {
 	printf ("This is new hello world");
-	function1();
-	function2();
+	if (test_Var%2)
+	{
+		function1();
+	}
+	else
+	{
+		function2();
+	}
 	return 0;
 }
