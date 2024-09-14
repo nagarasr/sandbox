@@ -18,6 +18,8 @@ int main()
 		function2();
 		printf("This is for function 2.\n");
 	}
+
+	printf("End of function calls\n");
 	
 	return 0;
 }
