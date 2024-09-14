@@ -5,5 +5,6 @@ int function1()
 {
 	printf ("This is function 1");
 	printf ("This is function 1 modified locally");
+	printf ("Function 1 modified in git");
 	return 0;
 }
