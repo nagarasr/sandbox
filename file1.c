@@ -3,8 +3,8 @@
 
 int function1()
 {
-	printf ("This is function 1");
-	printf ("This is function 1 modified locally");
-	printf ("Function 1 modified in git");
+	printf ("This is function 1\n");
+	printf ("This is function 1 modified locally\n");
+	printf ("Function 1 modified in git\n");
 	return 0;
 }
