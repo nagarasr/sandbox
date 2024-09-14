@@ -4,5 +4,6 @@
 int function1()
 {
 	printf ("This is function 1");
+	printf ("This is function 1 modified locally");
 	return 0;
 }
