@@ -6,3 +6,6 @@ This is section 1. Keep adding new sections as required.
 
 ## Section 2
 This is section 2. Created to check the git command diff.
+
+### Sub Section 1
+This is sub section 1. 
