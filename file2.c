@@ -3,6 +3,6 @@
 
 int function2()
 {
-	printf ("This is function 2");
+	printf ("This is modified function 2");
 	return 0;
 }
