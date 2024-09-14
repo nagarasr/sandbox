@@ -2,11 +2,13 @@
 #include <stdio.h>
 #include <file1.h>
 #include <file2.h>
-int test_Var=0;
+int test_var=0;
 int main()
 {
 	printf ("This is new hello world");
-	if (test_Var%2)
+	
+	// Call functions based on test_var value. 
+	if (test_var%2)
 	{
 		function1();
 	}
@@ -14,5 +16,6 @@ int main()
 	{
 		function2();
 	}
+	
 	return 0;
 }
