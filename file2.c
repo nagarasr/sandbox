@@ -8,5 +8,6 @@ int function2()
 	printf ("Function modified in git\n");
 	printf ("Function again modified in git\n");
 	printf ("This is modified locally again locally\n");
+	printf ("This is modified locally again locally in branch 1. \n");
 	return 0;
 }
